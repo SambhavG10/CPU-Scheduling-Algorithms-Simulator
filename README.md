@@ -96,7 +96,7 @@ g++ -std=c++17 -o cpu_scheduler main.cpp
 ### Quick Demo
 ```bash
 # Example session
-Enter File Name (Format= file_name.txt) you want to read datafile1.txt
+Enter File Name (Format= file_name.txt) you want to read SampleDatafile1.txt
 
 # Program processes all algorithms automatically
 # Output file generated: datafile_output.txt
@@ -173,8 +173,6 @@ PRR          15.60                      9.60
 
 ## 📸 Sample Output
 
-![Program Execution](terminal_output.png)
-*Terminal interface showing file input and processing*
 
 ![Algorithm Results](algorithm_comparison.png) 
 *Comprehensive output showing all algorithm results and performance metrics*
