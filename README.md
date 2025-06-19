@@ -262,20 +262,4 @@ g++ -std=c++11 -Wall -Wextra -o cpu_scheduler main.cpp
 - Load balancing in distributed systems
 - Resource allocation in cloud computing environments
 
-
-
-## 🔍 Advanced Features
-
-### Enhanced Algorithm Support
-- **Multi-level Queue Scheduling**: Support for process classification
-- **Multi-level Feedback Queue**: Dynamic priority adjustment
-- **Real-time Scheduling**: Deadline-aware process management
-- **Load Balancing**: Multi-processor scheduling simulation
-
-### Extended Analytics
-- **Gantt Chart Generation**: Visual timeline representation
-- **Statistical Analysis**: Standard deviation, confidence intervals
-- **Scenario Testing**: Batch processing of multiple input files
-- **Performance Profiling**: Algorithm execution time measurement
-
 **Note**: Ensure input files follow the specified format and are placed in the same directory as the executable. The program automatically generates output file named as datafile_output.txt with detailed analysis results. Results are also shown in terminal.
