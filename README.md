@@ -174,10 +174,10 @@ PRR          15.60                      9.60
 ## 📸 Sample Output
 
 
-![Algorithm Results](algorithm_comparison.png) 
+![Algorithm Results](Algorithm_Results.png) 
 *Comprehensive output showing all algorithm results and performance metrics*
 
-![Performance Analysis](performance_metrics.png) 
+![Performance Analysis](Summary_Table.png) 
 *Summary table comparing average turnaround and waiting times*
 
 ## 🛠️ Technical Implementation
